@@ -41,3 +41,4 @@ the introduction of evolutionary models for dynamic complex networks. Such model
 could be used in formal contexts and for simulation purposes. Defining random models is
 not an easy task and even for static networks some simple parameters cannot be captured
 in a satisfactory way."
+
